@@ -1,0 +1,155 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An Epistle of tender love to all friends that are tender hearted, who are tender of the honour of God, and seek the glory of his worthy name, and the prosperity of his precious truth, and the peace and unity of the church of Christ in this his blessed day.</title>
+            <author>Townsend, Theophila.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1690</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 17 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A94774</idno>
+            <idno type="STC">Wing T1988</idno>
+            <idno type="STC">ESTC R185412</idno>
+            <idno type="EEBO-CITATION">47683501</idno>
+            <idno type="OCLC">ocm 47683501</idno>
+            <idno type="VID">172960</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A94774)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 172960)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2659:14)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An Epistle of tender love to all friends that are tender hearted, who are tender of the honour of God, and seek the glory of his worthy name, and the prosperity of his precious truth, and the peace and unity of the church of Christ in this his blessed day.</title>
+                  <author>Townsend, Theophila.</author>
+               </titleStmt>
+               <extent>1 sheet ([2] p.).   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Thomas Northcott, in George-Yard, in Lombard-street,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>1690.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Signed at end: Theophila Townsend.</note>
+                  <note>Imperfect: creased, with loss of text.</note>
+                  <note>Reproduction of original in: Friends' Library (London, England).</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Society of Friends --  England --  Pastoral letters and charges.</term>
+               <term>Broadsides --  England --  London --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-01</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2012-01</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="letter">
+            <pb facs="tcp:172960:1" rendition="simple:additions"/>
+            <head>An Epiſtle of tender Love to all Friends that are tender hearted, who are tender of the Honour of God, and ſeek the Glory of his worthy Name, and the Pro<g ref="char:EOLhyphen"/>ſperity of his precious Truth, and the Peace and <g ref="char:V">Ʋ</g>nity of the Church of Chriſt in this his bleſſed Day.</head>
+            <opener>
+               <salute>Dear Friends, Brethren and Siſters,</salute>
+            </opener>
+            <p>TO you is the Salutation of my Love in the Lord, who are called and choſen of the Lord to be faithful Witneſſes to his Name, and Truth in this his glorious Day; wherein he is appeared in the Brightneſs of his Glory through his bleſſed Son Chriſt Jeſus our bleſſed Lord and Saviour, to bring many home to himſelf that were a far off from him, that they may know a Habitation of Safety and a quiet dwelling Place, and be eſtabliſhed upon that ſure laſting Rock, that the Gates of Hell cannot prevail a<g ref="char:EOLhyphen"/>gainſt my tender Friends; you that are come to the ſure Foundation ſtand faſt, and keep to Chriſt your Rock, he that was the Rock of the Righteous in all Ages, and in every Generation ſince the World began, and he will remain the ſame forever; therefore dear Friends, hold faſt your hope in him, that he may eſta<g ref="char:EOLhyphen"/>bliſh your Goings in the Path of Holineſs, and bleſſed way of Life, that he hath caſt up by the word of his pure Power in this his glorious Day; wherein he hath bleſſed you with a true and certain knowledge of the Myſteries of his Kingdom, the way of Life and Salvation, and made you partakers of his heavenly Treaſure; you that were poor in Spirit hath he made rich in Faith, and you that were weak hath he made ſtrong in the Lord, and in the Power of his might; that you may be able to ſtand in the Dominion of that bright ſhining Light, Life and Power of <hi>Immanuel,</hi> God with us, as a faithful Warrior againſt the man of ſin, both within and without: Oh my dear Friends, be bold and valiant, for the Lord and his Truth, and as the Valiants of <hi>Iſrael</hi> be diligent, and fervent in your Zeal and Courage, to perſevere in the Work of the Lord, and keep your <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> Name and power, and be faithful in your Teſtiimony for his bleſſed Truth, even unto the End, againſt all Oppo<g ref="char:EOLhyphen"/>ſition whatſoever, and let nothing take place in your Hearts, to diſcourage or weaken you in your Teſtimony againſt that Spirit of Diviſion and Separation, that op<g ref="char:EOLhyphen"/>poſeth the good Order and Diſcipline of the Church of Chriſt, that is eſtabliſhed amongſt you by the Power of God: Thoſe that are crying out againſt Orders and Forms; but Wiſdom is juſtified of her Children, and their Folly is made manifeſt, and their Fruits declare them to be ſome of the wandring Stars, that have loſt their light; notwithſtanding their ſpecious Pretences the leaſt Child of Light, whoſe Underſtanding is kept open and clear, may ſee that blindneſs and darkneſs is over them, ſo that they do not ſee their own Works of what ſort they are; who are preſcribing Orders for friends, and a Form for them to walk by, and how they ſhall keep their Men and Womens Meetings, and in what Method and Form; and yet are oppoſing the Form of Godlineſs that is attended by the Power, as you that have been faith<g ref="char:EOLhyphen"/>ful in the Lord's Work and Service, are Members of thoſe Meetings which they deſpiſe, and are made living Witneſſes of, and have had large Experience of his Power and Preſence to attend you from day to day, in your Works of Piety and Charity; and feel his Bleſ<g ref="char:EOLhyphen"/>ſings ſhowred down upon you to your great Comfort, and living Refreſhment; pure Praiſes to the Lord our God over all forever, who is the Rock of our Safety, as our Eye is to him; therefore have we no cauſe to be diſcou<g ref="char:EOLhyphen"/>raged, though Men deſpiſe and revile us, for God is with us of a truth; ſo we have good cauſe to believe that he will fight the Battle for us, and be too hard for them, and overturn them all in his own appointed Time and Seaſon, that riſe up againſt us; therefore in pati<g ref="char:EOLhyphen"/>ence poſſeſs your Soul, and caſt your Care upon the Lord, who careth for you, and will ſtand by you, and uphold you by his Power, and make way for you through all theſe things, that you ſhall be able to hold out to the End, and never grow weary of well-doing, as you fol<g ref="char:EOLhyphen"/>low Chriſt in the daily Croſs; it's you that God will crown, but it's grievous to ſome that come forth with us to go from us, and turn againſt us <hi>Demas</hi> like, and prove diſturbers of the Churche's Peace, by their oppo<g ref="char:EOLhyphen"/>ſiton and vain jangling againſt Orders and Diſcipline, and pretend they ſtand for their own, and others liberties in Chriſt, and yet would deny liberty to others, <hi>(viz.)</hi> to young People who have a deſire to come to Men and Womens Meetings, and Friends of other Coun<g ref="char:EOLhyphen"/>ties, if they are with us, they are alſo denied by them their liberty to come into their Meeting; ſo are not theſe in confuſion that pretend one thing and practice another at the ſame Time, who have publiſhed their own weakneſs to the Nation, by their Endeavours to reproach Friends, thinking thereby to cover them<g ref="char:EOLhyphen"/>ſelves; becauſe they ſay, they have not cauſed theſe Rents and Diviſions, and Differences among Friends, by bring<g ref="char:EOLhyphen"/>ing in any new Doctrine or unſcriptural Diſcipline, but have made it out how and which way they were the cauſe of it very plain, that it is eaſier to be underſtood, <hi>(viz.)</hi> by oppoſing the good Order and Diſcipline, ſet<g ref="char:EOLhyphen"/>led and eſtabliſhed among Friends, as it is to be ſeen in a printed Paper, the Title <hi>A Memorial for the preſent Ge<g ref="char:EOLhyphen"/>neration,</hi> and alſo for that which is to come; wherein they declare their diſlike, and what oppoſition, they ſtill ſtood in againſt Friends, and ſtill do ſtand in the ſame, and reſolved as I underſtand to continue in the Separation, except Friends will make a bargain with them, and give it under their hands in writing, to <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> and ſo deny them Liberty of Conſcience, which they ſeem to conted for in words, but in work they deny it to others; they having loſt the Power which ſhould make way for their Teſti<g ref="char:EOLhyphen"/>monies; now they would come in upon Terms to be ac<g ref="char:EOLhyphen"/>cepted as Miniſters of Chriſt<g ref="char:punc">▪</g> but his Miniſters are atten<g ref="char:EOLhyphen"/>ded with his Power, which makes way for them in the Hearts of all People, where the Ground is good, whoſe Minds are well inclined, that they receive their Teſtimo<g ref="char:EOLhyphen"/>ny with gladneſs of heart, as you are right ſenſible Bleſſed be the Name of the Lord forever, ſo need not complain for want of acceptance as they do: But my dear Friends, let none of theſe things diſcourage you in the Work and Service of the Lord, and ſtand over their Spirit, and touch not with them; but go on and do the work of your day with chearfulneſs of heart, and readineſs of mind, and fear not to ſtand in that Power, that will give you to ſee over the Devil and his Inſtru<g ref="char:EOLhyphen"/>ments; that have that Power of God in deriſion, and alſo that inward Senſe as not ſufficient to try Spirits by; but you that are Members of that Body of which Chriſt is Head, are ſeaſoned with his Grace, and know the Inſpiration of the Almighty, to give you an underſtand<g ref="char:EOLhyphen"/>ing; and you have an inward Senſe by that Spirit which ſearcheth all things, yea the deep things of God; and by this inward Senſe you are able to try Spirits whe<g ref="char:EOLhyphen"/>ther they are of God or not; and this gives you to ſee over the Devil, and his Inſtruments and Authority to judge them, and deny them, as moved ſo to do; ſo dear Children, and choſen of the Lord, keep your Dominion in the Truth, and hold faſt that which you have received of God, that none take your Crown, which the Lord your God hath laid up in ſtore for all his Saints, and ſanctified in Chriſt Jeſus, that are faithful unto the death; they ſhall have a Crown of Life, and as one ſaid in his day to the Primitive Chri<g ref="char:EOLhyphen"/>ſtians, ſo ſay I to you, <hi>take heed that none ſpoil you with Philoſophy and vain Deceit,</hi> or ſenſual Wiſdom and
+<pb facs="tcp:172960:2"/>fair Pretences from falſe Brethren, which may have a ſhew of Humility in Will-worſhip, not holding Chriſt the Head, unto which every Member is joyntly knit; from ſuch turn away, and cleave to the Lord with your whole Heart, and hold faſt the hope of the Goſpel un<g ref="char:EOLhyphen"/>to the End, that your Bow may abide in ſtrength, and the Lord fill your Quivers with polliſhed Arrows, that you may ſhoot at <hi>Babylon</hi> the Mother of Confuſion, and wound her to the Heart, and ſpare not her Merchants, for they muſt weep and mourn, for the Day of the Lord will overtake them; therefore put on Strength and Courage, and ſtand in that Power, that will make you victorious over all <hi>Zion's</hi> Enemies, both within and without; then ſhall <hi>Zion's</hi> Children rejoyce in the Lord the God of all our Mercies, and ſing high Praiſes with Glory and Hononour to his Honourable Name, and glorious Power; becauſe of his goodneſs and matchleſs Mercies unto us: for he is a ſhowring down of his ſpiritual Bleſſings, and living Mercies to the gladding of the Hearts of his People, for this is the Portion of the Righteous; therefore lift up your Heads the choſen of the Lord, and rejoice in the God of your Salvation, who hath promiſed to create <hi>Jeruſalem</hi> a Re<g ref="char:EOLhyphen"/>joycer, and her People a Joy, and he is fulfilling the ſame in the Hearts of <hi>Zion</hi>'s Children; pure Praiſe to his worthy Name for evermore; ſo let none of theſe Contenders trouble you with their printing this unſa<g ref="char:EOLhyphen"/>vory Memorial; for if they have no better Fruits to publiſh to the World than this, <hi>Viz.</hi> their Contention with their Brethren, and Diſlike and Oppoſition to the good Order and Diſcipline of the Church of Chriſt; their Memorial will not be bleſſed of the Lord, for the hand of the Lord is againſt it, and the Spirit that gave it forth; for ſuch a Memorial to be left to future Ages, will never give them cauſe to call them bleſſed, that are the Authors thereof; for it's not the Glad<g ref="char:EOLhyphen"/>tidings of good things, but ſad Tidings to the upright in Heart, to hear that ſuch as were once enlightened ſhould ſo far loſe their underſtanding, as to ſay, the way of Convincement is almoſt ſtopt, and ſhould be ſo covered with Darkneſs, as to publiſh themſelves to the World; ſo in oppoſ<gap reason="illegible" extent="5 letters">
+                  <desc>•••••</desc>
+               </gap> 
+               <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> their Brethren, as to give them cauſe to judge and deny them, and turn from them; what ſhall I ſay? the Lord will bring diſtreſs up<g ref="char:EOLhyphen"/>on them, and upon all that joyn with them, if they re<g ref="char:EOLhyphen"/>pent not; for their unſavory Memorial cannot cover them from the All-ſeeing Eye of the Lord; for he be<g ref="char:EOLhyphen"/>holds all their doings, and takes notice of it, and will plead with them, but thanks be to God a Remnant the Lord hath kept open and tender; they ſee that Chriſt the Light, Life, and who is the way of convincing; he is not ſtopt in the tender hearted, neither can their jangling ſtop the Work of the Lord, for Truth proſpers in the Earth, and gets ground; and many are convinced of late up and down by the Light and Spirit of Truth: Praiſes to the Lord our God over all, who is adding to his Church daily, ſuch as ſhall be ſaved; therefore ye Chil<g ref="char:EOLhyphen"/>dren of the Light and of the Day of God's Love, keep your Lamps trimmed, and furniſhed with the heavenly Oil, that you may enter in with the Bridegroom into the marriage Chamber, when the fooliſh are ſhut out; then will you be filled with the heavenly Treaſure, and the Well-ſpring of Eternal Life, will ſweetly flow into your tender Boſoms; for the Lord is the Portion of your Cup, and the Lot of your Inheritance, and will be forever as your Eye is unto him; to whom I commit you, and re<g ref="char:EOLhyphen"/>commend you with true Breathings to the God of my Life, that he will preſerve and keep you in a holy and harmleſs Life, low in his fear, that preſerves you out of the Snares of Death for ever; that ſo to the Praiſe of his Grace, and to the Glory of his Power who is over all, God bleſſed forever; you may live and out-live all Con<g ref="char:EOLhyphen"/>tentions in the Senſe of that Life, that was before Death and Contention was ſo as you abide in the Light, Life and Power of God, and walk in the way of Holineſs; this is the way to keep all in the Unity of the true Faith, and holy Spirit of Truth which is the Bond of true Peace, and watch over one another for good, and live in love one with another; for by this ſhall all Men know that you are my Diſciples, ſaid Chriſt, if you love one another, and keep down all Sperfluity, I intreat you for the Lord's ſake, in your Families; and train up your Chidren in the fear of the Lord, as becomes the Truth, in that which is comly and commendable; and be you ſuch good Patterns unto them, that they following your Example of Holineſs, may prevent ſuch as watch over you for evil, and rejoyces to ſee it, that they may ſpread it abroad to the Diſ<g ref="char:EOLhyphen"/>honour of Truth, and cauſe the uncircumciſed to rejoyce; as you may ſee, how falſe Brethren print and publiſh things to the Nation to defame the Truth, and thoſe that profeſs it, as in their printed memorial may be ſeen what reviling and reproachful bitter words they have vented againſt Friends, and are complaining of reflecti<g ref="char:EOLhyphen"/>ons from them, and are judging Friends for that which they are in the Practice of, and ſo condemn themſelves, and yet pretend they ſeek for Peace and Reconciliation, and bring forth ſuch Fruits to maintain Contention, at the ſame time all in one ſheet of Paper, ſo their Works contradict their Pretences; but dear Friends, do you ſtudy to be quiet, and mind the Lord's Buſineſs in your Men and Womens Meetings, and do your endeavours to diſcharge your Conſciences in all things towards God and Man, and take heed of giving place to any thing that would make the Offence of the Croſs to ceaſe, but ſtand as Pillars in the Houſe of God, and go no more forth, and help to bear the Burthens of the weak, and take them by the hand, and encourage young People to come to their Meetings, ſuch as are tender and of a good Life, that they may learn, ſo that your Off-ſpring may ſucceed you in the Work and Service of the Lord, and may act for God when you are in your Graves, notwithſtanding they deny them that Liberty, and heed not the blind Compariſon of <hi>Gehazi;</hi> you that are Members of thoſe Meetings, run not for covetous Ends as he did, but are willing to ſuccour and re<g ref="char:EOLhyphen"/>lieve ſuch as are in diſtreſs, which proves their Compa<g ref="char:EOLhyphen"/>riſon frivolous and vain like the reſt of their Works, who pretend they have been greatly concerned, and ſtriving to make up the breach, but they do not ſtrive lawfully, and ſo are diſappointed of their expectation, and are like ſo to be, till they repent and turn to the Lord, and ceaſe from Contention and Oppoſition, and be recon<g ref="char:EOLhyphen"/>ciled to their Brethren: If they do in reality deſire to make up the breach, this is the way for them to come in<g ref="char:EOLhyphen"/>to Unity and Fellowſhip again with their Brethren, and then they may offer their Gift, and find acceptance with the Lord and his People, as in Times paſt; but if they will not return but ſtill ſtand in Oppoſition, the fault is in themſelves, and they muſt bear their own Burthen; but be not you diſquieted at them but pity them, and be rea<g ref="char:EOLhyphen"/>dy to do them goo if you can; but do you ſtand faſt, and keep your Habitation in the precious Truth unto the End, that God over all may have the Honour, and the Glory, and the Praiſe, for he alone is worthy both now and for<g ref="char:EOLhyphen"/>ever more, ſaith your true Friend and Siſter in the Fel<g ref="char:EOLhyphen"/>lowſhip of the Goſpel, in which I conclude, deſiring you not to ſtrive with them, but keep to the peaceable Truth,</p>
+            <closer>
+               <signed>Theophila Townſend:</signed>
+               <dateline>Cirenceſter, <date>the 12<hi>th.</hi> of the 3<hi>d.</hi> Month, 1690</date>.</dateline>
+            </closer>
+            <epigraph>
+               <q>
+                  <bibl>ISAIAH LII. 7.</bibl>
+                  <p>How beautiful upon the Mountains are the Feet of him, that bringeth Glad-tidings of good things, and publiſheth Peace and Salvation, and ſaith to <hi>Zion,</hi> thy God Reigneth.</p>
+               </q>
+            </epigraph>
+            <closer/>
+            <postscript>
+               <p>Let this Epiſtle be read among Friends in their Meetings, as they in the Wiſdom of God ſhall ſee a Service for it.</p>
+            </postscript>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>London,</hi> Printed for <hi>Thomas Northcott,</hi> in <hi>George-Yard,</hi> in <hi>Lombard-ſtreet,</hi> 1690.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
